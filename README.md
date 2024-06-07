@@ -3,7 +3,7 @@
 This project contains a concept map in which you can build your own course.
 It provides the initial setup of the package architecture and environment for a GLSP diagram editor that uses ...
 
-![ConceptMap Image](ConceptMap.xcf)
+![ConceptMap Image](ConceptMap.png)
 
 
 ## Project structure
