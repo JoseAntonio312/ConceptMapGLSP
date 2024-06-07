@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_model:Course xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:course_model="http://www.uma.es/course_model" id="root" name="Course" course_name="Set the name of the course here..." author="Set your name here...">
+  <topic id="07f2c350-76a8-4c22-a5de-7378fa3a02b1" topic_name="New Topic" annotations="Set your annotations here...">
+    <concept id="e3b440ca-2975-41be-86bd-9df23eda7117" concept_name="New Concept " annotations="Your annotations here..."/>
+  </topic>
+</course_model:Course>

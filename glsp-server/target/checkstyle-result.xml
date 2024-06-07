@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.44">
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/palette/ConceptMapToolPaletteItemProvider.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/marker/ConceptMapValidator.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="53" column="5" severity="warning" message="La complejidad ciclomática es 9 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="71" column="19" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="98" column="5" severity="warning" message="La complejidad ciclomática es 10 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="130" column="19" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="162" column="5" severity="warning" message="La complejidad ciclomática es 9 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="182" column="19" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/launch/ConceptMapServerLauncher.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/action/ConceptMapChangeBoundsOperation.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/action/LogAction.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteLegendNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/ConceptMapRequestContextActionsHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteUsesTopicEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateUsesEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="56" column="5" severity="warning" message="El NCSS para este método es 59 (máximo permitido es 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="56" column="5" severity="warning" message="La complejidad ciclomática es 15 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="61" column="17" severity="warning" message="El nombre &apos;imported_origin&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="62" column="17" severity="warning" message="El nombre &apos;imported_destination&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="76" column="28" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="93" column="57" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="140" column="53" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreatePropertiesNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="13" column="40" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - org.eclipse.glsp.conceptap.model.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteTopicNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteFeatureNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateLegendNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="12" column="40" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - org.eclipse.glsp.conceptap.model.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteSpecializesEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/EditNameHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="29" column="4" severity="warning" message="La complejidad ciclomática es 8 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="35" column="23" severity="warning" message="El nombre &apos;_gNodeElement&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="41" column="30" severity="warning" message="El nombre &apos;_gCompartment&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="63" column="4" severity="warning" message="La complejidad ciclomática es 17 (máxima permitida es 15)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="63" column="4" severity="warning" message="La complejidad ciclomática es 17 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="63" column="4" severity="warning" message="La complejidad ciclomática es 17 (máxima permitida es 15)." source="complexity"/>
+<error line="71" column="13" severity="warning" message="switch sin etiqueta &quot;default&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="123" column="4" severity="warning" message="La complejidad ciclomática es 8 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="135" column="16" severity="warning" message="switch sin etiqueta &quot;default&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="168" column="16" severity="warning" message="switch sin etiqueta &quot;default&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="192" column="13" severity="warning" message="switch sin etiqueta &quot;default&quot;." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateFeatureNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateImportedConceptHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateAfterEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateTopicNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateSpecializesEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="55" column="5" severity="warning" message="El NCSS para este método es 59 (máximo permitido es 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="55" column="5" severity="warning" message="La complejidad ciclomática es 15 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="60" column="17" severity="warning" message="El nombre &apos;imported_origin&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="61" column="17" severity="warning" message="El nombre &apos;imported_destination&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="75" column="28" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="92" column="57" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="142" column="53" severity="warning" message="Se puede simplificar la expresión." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeletePropertiesNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteConceptNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/LogActionHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/CreateConceptNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteUsesEdgeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteImportedConceptNodeHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/handler/DeleteCourseNodeHandler.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/ConceptMapModelTypes.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/model/ConceptMapGModelFactory.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/model/ConceptMapSourceModelStorage.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/operations/ConceptMoveOperation.java">
+<error line="1" severity="warning" message="Falta una cabecera - no hay líneas suficientes en el fichero." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/operations/ConceptMapChangeRoutingPointsOperationHandler.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="45" column="11" severity="warning" message="Capturar la excepción &apos;Exception&apos; no está permitido." source="IllegalExceptionCatch"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/ConceptMapDiagramModule.java">
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/editname/EditNameValidator.java">
+<error line="1" severity="warning" message="La línea no coincide con la línea de cabecera esperada &apos;^\/\*{2,80}$&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+<error line="21" column="5" severity="warning" message="La complejidad ciclomática es 10 (máxima permitida es 7)." source="com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck"/>
+<error line="29" column="13" severity="warning" message="El nombre &apos;dups_topic&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="30" column="13" severity="warning" message="El nombre &apos;dups_concept_imported&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/home/alumno/Escritorio/Reserva/ConceptMap/glsp-examples-master/project-templates/java-emf-theia/glsp-server/src/main/java/org/eclipse/glsp/example/javaemf/ConceptMapDiagramConfiguration.java">
+</file>
+</checkstyle>
